@@ -3,7 +3,7 @@
 
 
 .qr-container {
-  
+  padding-top: 10px;
   height: 460px;
   width: 300px;
  display: flex;
@@ -14,6 +14,7 @@
 }
 
 img {
+  margin-top: 10px;
   height: 260px;
   width: 260px;
   border-radius: 10px;
@@ -40,8 +41,9 @@ body {
 }
 
 .bold-text {
-  font-weight:bold;
+  font-weight:700;
   text-align: center;
+  font-size: large;
 }
 
 .lighter-text {
